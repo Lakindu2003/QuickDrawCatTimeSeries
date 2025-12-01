@@ -1,4 +1,7 @@
-# QuickDrawCatTimeSeries
+# **Sketching Cats with ARIMA: A Time Series Analysis into Cat Sketches**
+*by Jayawardana Wickramasinghe Pathiranage Lakindu Ransika*
+
+**[View the Final Report (PDF)](https://lakindu2003.github.io/QuickDrawCatTimeSeries/project_report.pdf)**
 ## 1. Introduction
 ## 1.1. Background
 The advent of deep learning models such as diffusion transformers (Peebles & Xie, 2023) has shown the ability of machine learning models in generating images by developing a semantic understanding of the real world. This project explores the application of statistical models in image understanding and generation. More specifically, this project focuses on a simple cat drawing chosen from the Quick Draw dataset (Google, n.d.-a). Cats were selected due to their cuteness (England, 2025).
