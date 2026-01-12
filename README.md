@@ -12,3 +12,8 @@ Drawing a doodle involves a series of strokes. Each stroke is a sequence of inpu
 This project has two main objectives:
 * Model the distance from the center of a cat doodle drawing as a time series using ARIMA
 * Analyze the generative capabilities of VARIMA in cat doodle sketching
+
+Submitted as a Self-proposed University course project with 97/100
+
+---
+ > Note: This project was evaluated as part of STAT4601 Time-Series Analysis and was awarded a grade of 97/100.
